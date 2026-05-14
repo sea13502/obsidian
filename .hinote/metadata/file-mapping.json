@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "mapping": {
-    "101essays/100essays.md": "101essays_100essays.md.json"
+    "mcqa.md": "mcqa.md.json"
   },
-  "lastUpdated": 1776177817570
+  "lastUpdated": 1777091388306
 }
