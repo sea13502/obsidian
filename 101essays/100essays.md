@@ -1,10 +1,8 @@
-In his book Sapiens, Dr. Yuval Noah Harari explains that at one point, there were more than just Homo sapiens ==roaming== the Earth1. In fact, there were likely as many as six different types of humans in existence: Homo sapiens, Homo neanderthalensis, Homo soloensis, Homo erectus, etc.
+In his book Sapiens, Dr. Yuval Noah Harari explains that at one point, there were more than just Homo sapiens ==roaming== the Earth1. In fact, there were likely as many as six different types of humans in existence: Homo sapiens（智人（现代人的学名））, Homo neanderthalensis（尼安德特人）, Homo soloensis（梭罗人）, Homo erectus（直立人）, etc.
 
 尤瓦尔·赫拉利博士在他的《人类简史》一书中告诉我们，在某一个时间段，游荡在地球上的并非只有智人一种人类。实际上，当时很可能存在六个不同的人种：智人、尼安德特人、梭罗人、直立人等等。
 
 There’s a reason Homo sapiens still exist today and the others didn’t continue to evolve: a prefrontal cortex, which we can infer from skeletal structures. Essentially, we had the ability to think more complexly, thus were able to organize, cultivate, teach, practice, habituate and pass down a world suited for our survival. Because of our capacity to imagine, we were able to build Earth as it is today out of virtually nothing.
-
-
 
 智人能够一直存续到今天，而其他人类却在进化的道路上消失了，这是因为我们的大脑比那些消失的人类多了一个前额叶皮质——这一点可以从骨骼结构中推断出来。这让我们从根本上有能力进行更复杂的思考，从而能够组织、培养、教导、实践，这样一代代地传承下去，创造出一个适合我们生存的世界。正是我们的想象力，让我们能够从无到有地创造出今天的世界。
 
