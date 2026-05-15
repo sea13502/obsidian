@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a25ec82542003828","type":"text","text":"machine learning ","x":-96,"y":-7,"width":216,"height":50},
+		{"id":"8f10ec637d71bf65","type":"text","text":"part one NEURAL NETWORKS AND DEEP LEARNING","x":220,"y":-18,"width":270,"height":72},
+		{"id":"483def9f9e7e05ab","type":"text","text":"PART II\nCOMPUTER VISION","x":220,"y":120,"width":250,"height":60},
+		{"id":"0bb64dc3a5d7724e","type":"text","text":"PART III\nNATURAL LANGUAGE PROCESSING","x":80,"y":283,"width":440,"height":97}
+	],
+	"edges":[]
+}
