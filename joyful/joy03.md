@@ -1,0 +1,3 @@
+Yet in the weeks and months that followed my review, I noticed many moments when people seemed to find real joy in the material world. Gazing at a favorite painting in an art museum or making a sandcastle at the beach, people smiled and laughed, lost in the moment. They smiled, too, at the peachy light of the sunset and at the shaggy dog with the yellow galoshes. And not only did people seem to find joy in the world around them, but many also put a lot of effort into making their immediate environment more delightful. They tended rose gardens, put candles on birthday cakes, and hung lights for the holidays. Why would people do these things if they had no real effect on their happiness?
+
+![[Vox_1779626213125.wav]]
