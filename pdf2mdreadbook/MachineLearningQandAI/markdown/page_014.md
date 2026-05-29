@@ -1,6 +1,6 @@
 # 第 14 页
 
-![第14页](../images/MachineLearningQandAI_page_014.jpg)
+![第14页|713](../images/MachineLearningQandAI_page_014.jpg)
 
 
 

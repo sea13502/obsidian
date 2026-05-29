@@ -10,7 +10,8 @@
 - [[markdown/page_006|About the Author]] (第6页)
 - [[markdown/page_007|About the Technical Reviewer]] (第7页)
 - [[markdown/page_008|BRIEF CONTENTS]] (第8页)
-- [[markdown/page_011|CONTENTS IN DETAIL]] (第11页)
+- ==[[markdown/page_011|CONTENTS IN DETAIL]] (第11页)==
+	- [[page_022]]
 - [[markdown/page_026|FOREWORD]] (第26页)
 - [[markdown/page_027|ACKNOWLEDGMENTS]] (第27页)
 - [[markdown/page_028|INTRODUCTION]] (第28页)
@@ -18,7 +19,7 @@
   - [[markdown/page_029|What Will You Get Out of This Book?]] (第29页)
   - [[markdown/page_029|How to Read This Book]] (第29页)
   - [[markdown/page_034|Online Resources]] (第34页)
-- [[markdown/page_035|PART I: NEURAL NETWORKS AND DEEP LEARNING]] (第35页)
+- [[markdown/page_035|PART I: NEURAL NETWORKS AND DEEP LEARNING]] (第35页) 嵌入、隐空间与表征
 - [[markdown/page_036|1. EMBEDDINGS, LATENT SPACE, AND REPRESENTATIONS]] (第36页)
   - [[markdown/page_036|Embeddings]] (第36页)
   - [[markdown/page_038|Latent Space]] (第38页)
