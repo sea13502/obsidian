@@ -1,6 +1,6 @@
 # 第 22 页
 
-![第22页](../images/MachineLearningQandAI_page_022.jpg)
+![第22页|972](../images/MachineLearningQandAI_page_022.jpg)
 
 
 
