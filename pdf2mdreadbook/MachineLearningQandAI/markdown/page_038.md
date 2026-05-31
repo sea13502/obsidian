@@ -104,3 +104,5 @@ These latent space features can be learned by
 |**Embedding Space**|所有嵌入向量所在的向量空间|
 |**Latent Space**|与嵌入空间类似，常用于生成模型（如VAE、GAN）中|
 |**Distance in Embedding Space**|反映语义相似性（越近越相似）|
+
+ | [[page_037|« 上一页]] | [[../README|📖 回到书页]] | [[page_039|下一页 »]]
