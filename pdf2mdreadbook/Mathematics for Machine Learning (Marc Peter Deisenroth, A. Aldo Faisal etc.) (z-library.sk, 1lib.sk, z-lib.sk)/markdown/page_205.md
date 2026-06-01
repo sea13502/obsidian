@@ -1,0 +1,9 @@
+# 第 205 页
+
+![第205页](../images/Mathematics for Machine Learning (Marc Peter Deisenroth, A. Aldo Faisal etc.) (z-library.sk, 1lib.sk, z-lib.sk)_page_205.jpg)
+
+
+
+---
+
+ | [[page_204|« 上一页]] | [[../README|📖 回到书页]] | [[page_206|下一页 »]]

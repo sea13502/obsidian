@@ -1,0 +1,9 @@
+# 第 367 页
+
+![第367页](../images/Mathematics for Machine Learning (Marc Peter Deisenroth, A. Aldo Faisal etc.) (z-library.sk, 1lib.sk, z-lib.sk)_page_367.jpg)
+
+
+
+---
+
+ | [[page_366|« 上一页]] | [[../README|📖 回到书页]] | [[page_368|下一页 »]]
