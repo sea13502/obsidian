@@ -1,0 +1,3 @@
+Early NLP Systems (1950s-2000s): The field of NLP started from 1950s with the development of rule-based systems. These systems relied on handcrafted linguistic rules to process and understand language. However, they were limited in handling the complexity and variability of natural language. In 1952, the Hodgkin-Huxley model showed how the brain uses neurons to form an electrical network. These events helped inspire the idea of Artificial Intelligence (AI), NLP, and the evolution of computers.
+
+早期NLP系统（1950年代-2000年代）：NLP领域始于20世纪50年代，当时发展了基于规则的系统。这些系统依赖手工制定的语言规则来处理和理解语言。然而，他们在处理自然语言的复杂性和变异性方面存在限制。1952年，霍奇金-赫胥黎模型展示了大脑如何利用神经元形成电网络。这些活动激发了人工智能（AI）、自然语言处理（NLP）以及计算机的发展理念。
