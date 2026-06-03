@@ -4,415 +4,415 @@
 
 ## 目录
 
-- [[markdown/page_005|Preface]] (第5页)
-  - [[markdown/page_005|Goals of the book]] (第5页)
-  - [[markdown/page_006|Responsible use of technology]] (第6页)
-  - [[markdown/page_006|Structure of the book]] (第6页)
-  - [[markdown/page_007|References]] (第7页)
-  - [[markdown/page_008|Exercises]] (第8页)
-  - [[markdown/page_008|Mathematical notation]] (第8页)
-  - [[markdown/page_009|Acknowledgements]] (第9页)
-- [[markdown/page_011|Contents]] (第11页)
-- [[markdown/page_021|1 The Deep Learning Revolution]] (第21页)
-  - [[markdown/page_022|1.1. The Impact of Deep Learning]] (第22页)
-    - [[markdown/page_022|1.1.1 Medical diagnosis]] (第22页)
-    - [[markdown/page_023|1.1.2 Protein structure]] (第23页)
-    - [[markdown/page_024|1.1.3 Image synthesis]] (第24页)
-    - [[markdown/page_025|1.1.4 Large language models]] (第25页)
-  - [[markdown/page_026|1.2. A Tutorial Example]] (第26页)
-    - [[markdown/page_026|1.2.1 Synthetic data]] (第26页)
-    - [[markdown/page_028|1.2.2 Linear models]] (第28页)
-    - [[markdown/page_028|1.2.3 Error function]] (第28页)
-    - [[markdown/page_029|1.2.4 Model complexity]] (第29页)
-    - [[markdown/page_032|1.2.5 Regularization]] (第32页)
-    - [[markdown/page_034|1.2.6 Model selection]] (第34页)
-  - [[markdown/page_036|1.3. A Brief History of Machine Learning]] (第36页)
-    - [[markdown/page_037|1.3.1 Single-layer networks]] (第37页)
-    - [[markdown/page_038|1.3.2 Backpropagation]] (第38页)
-    - [[markdown/page_040|1.3.3 Deep networks]] (第40页)
-- [[markdown/page_043|2 Probabilities]] (第43页)
-  - [[markdown/page_045|2.1. The Rules of Probability]] (第45页)
-    - [[markdown/page_045|2.1.1 A medical screening example]] (第45页)
-    - [[markdown/page_046|2.1.2 The sum and product rules]] (第46页)
-    - [[markdown/page_048|2.1.3 Bayes’ theorem]] (第48页)
-    - [[markdown/page_050|2.1.4 Medical screening revisited]] (第50页)
-    - [[markdown/page_051|2.1.5 Prior and posterior probabilities]] (第51页)
-    - [[markdown/page_051|2.1.6 Independent variables]] (第51页)
-  - [[markdown/page_052|2.2. Probability Densities]] (第52页)
-    - [[markdown/page_053|2.2.1 Example distributions]] (第53页)
-    - [[markdown/page_054|2.2.2 Expectations and covariances]] (第54页)
-  - [[markdown/page_056|2.3. The Gaussian Distribution]] (第56页)
-    - [[markdown/page_057|2.3.1 Mean and variance]] (第57页)
-    - [[markdown/page_057|2.3.2 Likelihood function]] (第57页)
-    - [[markdown/page_059|2.3.3 Bias of maximum likelihood]] (第59页)
-    - [[markdown/page_060|2.3.4 Linear regression]] (第60页)
-  - [[markdown/page_062|2.4. Transformation of Densities]] (第62页)
-    - [[markdown/page_064|2.4.1 Multivariate distributions]] (第64页)
-  - [[markdown/page_066|2.5. Information Theory]] (第66页)
-    - [[markdown/page_066|2.5.1 Entropy]] (第66页)
-    - [[markdown/page_067|2.5.2 Physics perspective]] (第67页)
-    - [[markdown/page_069|2.5.3 Differential entropy]] (第69页)
-    - [[markdown/page_070|2.5.4 Maximum entropy]] (第70页)
-    - [[markdown/page_071|2.5.5 Kullback–Leibler divergence]] (第71页)
-    - [[markdown/page_073|2.5.6 Conditional entropy]] (第73页)
-    - [[markdown/page_074|2.5.7 Mutual information]] (第74页)
-  - [[markdown/page_074|2.6. Bayesian Probabilities]] (第74页)
-    - [[markdown/page_075|2.6.1 Model parameters]] (第75页)
-    - [[markdown/page_076|2.6.2 Regularization]] (第76页)
-    - [[markdown/page_077|2.6.3 Bayesian machine learning]] (第77页)
-  - [[markdown/page_078|Exercises]] (第78页)
-- [[markdown/page_084|3 Standard Distributions]] (第84页)
-  - [[markdown/page_085|3.1. Discrete Variables]] (第85页)
-    - [[markdown/page_085|3.1.1 Bernoulli distribution]] (第85页)
-    - [[markdown/page_086|3.1.2 Binomial distribution]] (第86页)
-    - [[markdown/page_087|3.1.3 Multinomial distribution]] (第87页)
-  - [[markdown/page_089|3.2. The Multivariate Gaussian]] (第89页)
-    - [[markdown/page_090|3.2.1 Geometry of the Gaussian]] (第90页)
-    - [[markdown/page_093|3.2.2 Moments]] (第93页)
-    - [[markdown/page_094|3.2.3 Limitations]] (第94页)
-    - [[markdown/page_095|3.2.4 Conditional distribution]] (第95页)
-    - [[markdown/page_098|3.2.5 Marginal distribution]] (第98页)
-    - [[markdown/page_100|3.2.6 Bayes’ theorem]] (第100页)
-    - [[markdown/page_103|3.2.7 Maximum likelihood]] (第103页)
-    - [[markdown/page_104|3.2.8 Sequential estimation]] (第104页)
-    - [[markdown/page_105|3.2.9 Mixtures of Gaussians]] (第105页)
-  - [[markdown/page_108|3.3. Periodic Variables]] (第108页)
-    - [[markdown/page_108|3.3.1 Von Mises distribution]] (第108页)
-  - [[markdown/page_113|3.4. The Exponential Family]] (第113页)
-    - [[markdown/page_116|3.4.1 Sufficient statistics]] (第116页)
-  - [[markdown/page_117|3.5. Nonparametric Methods]] (第117页)
-    - [[markdown/page_117|3.5.1 Histograms]] (第117页)
-    - [[markdown/page_119|3.5.2 Kernel densities]] (第119页)
-    - [[markdown/page_122|3.5.3 Nearest-neighbours]] (第122页)
-  - [[markdown/page_124|Exercises]] (第124页)
-- [[markdown/page_130|4 Single-layer Networks: Regression]] (第130页)
-  - [[markdown/page_131|4.1. Linear Regression]] (第131页)
-    - [[markdown/page_131|4.1.1 Basis functions]] (第131页)
-    - [[markdown/page_133|4.1.2 Likelihood function]] (第133页)
-    - [[markdown/page_134|4.1.3 Maximum likelihood]] (第134页)
-    - [[markdown/page_136|4.1.4 Geometry of least squares]] (第136页)
-    - [[markdown/page_136|4.1.5 Sequential learning]] (第136页)
-    - [[markdown/page_137|4.1.6 Regularized least squares]] (第137页)
-    - [[markdown/page_138|4.1.7 Multiple outputs]] (第138页)
-  - [[markdown/page_139|4.2. Decision theory]] (第139页)
-  - [[markdown/page_142|4.3. The Bias–Variance Trade-off]] (第142页)
-  - [[markdown/page_147|Exercises]] (第147页)
-- [[markdown/page_150|5 Single-layer Networks: Classification]] (第150页)
-  - [[markdown/page_151|5.1. Discriminant Functions]] (第151页)
-    - [[markdown/page_151|5.1.1 Two classes]] (第151页)
-    - [[markdown/page_153|5.1.2 Multiple classes]] (第153页)
-    - [[markdown/page_154|5.1.3 1-of-K coding]] (第154页)
-    - [[markdown/page_155|5.1.4 Least squares for classification]] (第155页)
-  - [[markdown/page_157|5.2. Decision Theory]] (第157页)
-    - [[markdown/page_158|5.2.1 Misclassification rate]] (第158页)
-    - [[markdown/page_159|5.2.2 Expected loss]] (第159页)
-    - [[markdown/page_161|5.2.3 The reject option]] (第161页)
-    - [[markdown/page_162|5.2.4 Inference and decision]] (第162页)
-    - [[markdown/page_166|5.2.5 Classifier accuracy]] (第166页)
-    - [[markdown/page_167|5.2.6 ROC curve]] (第167页)
-  - [[markdown/page_169|5.3. Generative Classifiers]] (第169页)
-    - [[markdown/page_171|5.3.1 Continuous inputs]] (第171页)
-    - [[markdown/page_172|5.3.2 Maximum likelihood solution]] (第172页)
-    - [[markdown/page_175|5.3.3 Discrete features]] (第175页)
-    - [[markdown/page_175|5.3.4 Exponential family]] (第175页)
-  - [[markdown/page_176|5.4. Discriminative Classifiers]] (第176页)
-    - [[markdown/page_177|5.4.1 Activation functions]] (第177页)
-    - [[markdown/page_177|5.4.2 Fixed basis functions]] (第177页)
-    - [[markdown/page_178|5.4.3 Logistic regression]] (第178页)
-    - [[markdown/page_180|5.4.4 Multi-class logistic regression]] (第180页)
-    - [[markdown/page_182|5.4.5 Probit regression]] (第182页)
-    - [[markdown/page_183|5.4.6 Canonical link functions]] (第183页)
-  - [[markdown/page_185|Exercises]] (第185页)
-- [[markdown/page_189|6 Deep Neural Networks]] (第189页)
-  - [[markdown/page_190|6.1. Limitations of Fixed Basis Functions]] (第190页)
-    - [[markdown/page_190|6.1.1 The curse of dimensionality]] (第190页)
-    - [[markdown/page_193|6.1.2 High-dimensional spaces]] (第193页)
-    - [[markdown/page_194|6.1.3 Data manifolds]] (第194页)
-    - [[markdown/page_196|6.1.4 Data-dependent basis functions]] (第196页)
-  - [[markdown/page_198|6.2. Multilayer Networks]] (第198页)
-    - [[markdown/page_199|6.2.1 Parameter matrices]] (第199页)
-    - [[markdown/page_199|6.2.2 Universal approximation]] (第199页)
-    - [[markdown/page_200|6.2.3 Hidden unit activation functions]] (第200页)
-    - [[markdown/page_203|6.2.4 Weight-space symmetries]] (第203页)
-  - [[markdown/page_204|6.3. Deep Networks]] (第204页)
-    - [[markdown/page_205|6.3.1 Hierarchical representations]] (第205页)
-    - [[markdown/page_205|6.3.2 Distributed representations]] (第205页)
-    - [[markdown/page_206|6.3.3 Representation learning]] (第206页)
-    - [[markdown/page_207|6.3.4 Transfer learning]] (第207页)
-    - [[markdown/page_209|6.3.5 Contrastive learning]] (第209页)
-    - [[markdown/page_211|6.3.6 General network architectures]] (第211页)
-    - [[markdown/page_212|6.3.7 Tensors]] (第212页)
-  - [[markdown/page_212|6.4. Error Functions]] (第212页)
-    - [[markdown/page_212|6.4.1 Regression]] (第212页)
-    - [[markdown/page_214|6.4.2 Binary classification]] (第214页)
-    - [[markdown/page_215|6.4.3 multiclass classification]] (第215页)
-  - [[markdown/page_216|6.5. Mixture Density Networks]] (第216页)
-    - [[markdown/page_216|6.5.1 Robot kinematics example]] (第216页)
-    - [[markdown/page_217|6.5.2 Conditional mixture distributions]] (第217页)
-    - [[markdown/page_219|6.5.3 Gradient optimization]] (第219页)
-    - [[markdown/page_220|6.5.4 Predictive distribution]] (第220页)
-  - [[markdown/page_222|Exercises]] (第222页)
-- [[markdown/page_226|7 Gradient Descent]] (第226页)
-  - [[markdown/page_227|7.1. Error Surfaces]] (第227页)
-    - [[markdown/page_228|7.1.1 Local quadratic approximation]] (第228页)
-  - [[markdown/page_230|7.2. Gradient Descent Optimization]] (第230页)
-    - [[markdown/page_231|7.2.1 Use of gradient information]] (第231页)
-    - [[markdown/page_231|7.2.2 Batch gradient descent]] (第231页)
-    - [[markdown/page_231|7.2.3 Stochastic gradient descent]] (第231页)
-    - [[markdown/page_233|7.2.4 Mini-batches]] (第233页)
-    - [[markdown/page_233|7.2.5 Parameter initialization]] (第233页)
-  - [[markdown/page_235|7.3. Convergence]] (第235页)
-    - [[markdown/page_237|7.3.1 Momentum]] (第237页)
-    - [[markdown/page_239|7.3.2 Learning rate schedule]] (第239页)
-    - [[markdown/page_240|7.3.3 RMSProp and Adam]] (第240页)
-  - [[markdown/page_241|7.4. Normalization]] (第241页)
-    - [[markdown/page_243|7.4.1 Data normalization]] (第243页)
-    - [[markdown/page_244|7.4.2 Batch normalization]] (第244页)
-    - [[markdown/page_246|7.4.3 Layer normalization]] (第246页)
-  - [[markdown/page_247|Exercises]] (第247页)
-- [[markdown/page_250|8 Backpropagation]] (第250页)
-  - [[markdown/page_251|8.1. Evaluation of Gradients]] (第251页)
-    - [[markdown/page_251|8.1.1 Single-layer networks]] (第251页)
-    - [[markdown/page_252|8.1.2 General feed-forward networks]] (第252页)
-    - [[markdown/page_255|8.1.3 A simple example]] (第255页)
-    - [[markdown/page_256|8.1.4 Numerical differentiation]] (第256页)
-    - [[markdown/page_257|8.1.5 The Jacobian matrix]] (第257页)
-    - [[markdown/page_259|8.1.6 The Hessian matrix]] (第259页)
-  - [[markdown/page_261|8.2. Automatic Differentiation]] (第261页)
-    - [[markdown/page_263|8.2.1 Forward-mode automatic differentiation]] (第263页)
-    - [[markdown/page_266|8.2.2 Reverse-mode automatic differentiation]] (第266页)
-  - [[markdown/page_267|Exercises]] (第267页)
-- [[markdown/page_270|9 Regularization]] (第270页)
-  - [[markdown/page_271|9.1. Inductive Bias]] (第271页)
-    - [[markdown/page_271|9.1.1 Inverse problems]] (第271页)
-    - [[markdown/page_272|9.1.2 No free lunch theorem]] (第272页)
-    - [[markdown/page_273|9.1.3 Symmetry and invariance]] (第273页)
-    - [[markdown/page_276|9.1.4 Equivariance]] (第276页)
-  - [[markdown/page_277|9.2. Weight Decay]] (第277页)
-    - [[markdown/page_279|9.2.1 Consistent regularizers]] (第279页)
-    - [[markdown/page_281|9.2.2 Generalized weight decay]] (第281页)
-  - [[markdown/page_283|9.3. Learning Curves]] (第283页)
-    - [[markdown/page_283|9.3.1 Early stopping]] (第283页)
-    - [[markdown/page_285|9.3.2 Double descent]] (第285页)
-  - [[markdown/page_287|9.4. Parameter Sharing]] (第287页)
-    - [[markdown/page_288|9.4.1 Soft weight sharing]] (第288页)
-  - [[markdown/page_291|9.5. Residual Connections]] (第291页)
-  - [[markdown/page_294|9.6. Model Averaging]] (第294页)
-    - [[markdown/page_296|9.6.1 Dropout]] (第296页)
-  - [[markdown/page_298|Exercises]] (第298页)
-- [[markdown/page_303|10 Convolutional Networks]] (第303页)
-  - [[markdown/page_304|10.1. Computer Vision]] (第304页)
-    - [[markdown/page_305|10.1.1 Image data]] (第305页)
-  - [[markdown/page_306|10.2. Convolutional Filters]] (第306页)
-    - [[markdown/page_306|10.2.1 Feature detectors]] (第306页)
-    - [[markdown/page_307|10.2.2 Translation equivariance]] (第307页)
-    - [[markdown/page_310|10.2.3 Padding]] (第310页)
-    - [[markdown/page_310|10.2.4 Strided convolutions]] (第310页)
-    - [[markdown/page_311|10.2.5 Multi-dimensional convolutions]] (第311页)
-    - [[markdown/page_312|10.2.6 Pooling]] (第312页)
-    - [[markdown/page_314|10.2.7 Multilayer convolutions]] (第314页)
-    - [[markdown/page_315|10.2.8 Example network architectures]] (第315页)
-  - [[markdown/page_318|10.3. Visualizing Trained CNNs]] (第318页)
-    - [[markdown/page_318|10.3.1 Visual cortex]] (第318页)
-    - [[markdown/page_319|10.3.2 Visualizing trained filters]] (第319页)
-    - [[markdown/page_321|10.3.3 Saliency maps]] (第321页)
-    - [[markdown/page_322|10.3.4 Adversarial attacks]] (第322页)
-    - [[markdown/page_324|10.3.5 Synthetic images]] (第324页)
-  - [[markdown/page_324|10.4. Object Detection]] (第324页)
-    - [[markdown/page_325|10.4.1 Bounding boxes]] (第325页)
-    - [[markdown/page_326|10.4.2 Intersection-over-union]] (第326页)
-    - [[markdown/page_327|10.4.3 Sliding windows]] (第327页)
-    - [[markdown/page_329|10.4.4 Detection across scales]] (第329页)
-    - [[markdown/page_330|10.4.5 Non-max suppression]] (第330页)
-    - [[markdown/page_330|10.4.6 Fast region CNNs]] (第330页)
-  - [[markdown/page_331|10.5. Image Segmentation]] (第331页)
-    - [[markdown/page_331|10.5.1 Convolutional segmentation]] (第331页)
-    - [[markdown/page_332|10.5.2 Up-sampling]] (第332页)
-    - [[markdown/page_334|10.5.3 Fully convolutional networks]] (第334页)
-    - [[markdown/page_335|10.5.4 The U-net architecture]] (第335页)
-  - [[markdown/page_336|10.6. Style Transfer]] (第336页)
-  - [[markdown/page_338|Exercises]] (第338页)
-- [[markdown/page_341|11 Structured Distributions]] (第341页)
-  - [[markdown/page_342|11.1. Graphical Models]] (第342页)
-    - [[markdown/page_342|11.1.1 Directed graphs]] (第342页)
-    - [[markdown/page_343|11.1.2 Factorization]] (第343页)
-    - [[markdown/page_345|11.1.3 Discrete variables]] (第345页)
-    - [[markdown/page_348|11.1.4 Gaussian variables]] (第348页)
-    - [[markdown/page_350|11.1.5 Binary classifier]] (第350页)
-    - [[markdown/page_350|11.1.6 Parameters and observations]] (第350页)
-    - [[markdown/page_352|11.1.7 Bayes’ theorem]] (第352页)
-  - [[markdown/page_353|11.2. Conditional Independence]] (第353页)
-    - [[markdown/page_354|11.2.1 Three example graphs]] (第354页)
-    - [[markdown/page_357|11.2.2 Explaining away]] (第357页)
-    - [[markdown/page_359|11.2.3 D-separation]] (第359页)
-    - [[markdown/page_360|11.2.4 Naive Bayes]] (第360页)
-    - [[markdown/page_362|11.2.5 Generative models]] (第362页)
-    - [[markdown/page_363|11.2.6 Markov blanket]] (第363页)
-    - [[markdown/page_364|11.2.7 Graphs as filters]] (第364页)
-  - [[markdown/page_365|11.3. Sequence Models]] (第365页)
-    - [[markdown/page_368|11.3.1 Hidden variables]] (第368页)
-  - [[markdown/page_369|Exercises]] (第369页)
-- [[markdown/page_373|12 Transformers]] (第373页)
-  - [[markdown/page_374|12.1. Attention]] (第374页)
-    - [[markdown/page_376|12.1.1 Transformer processing]] (第376页)
-    - [[markdown/page_377|12.1.2 Attention coefficients]] (第377页)
-    - [[markdown/page_378|12.1.3 Self-attention]] (第378页)
-    - [[markdown/page_379|12.1.4 Network parameters]] (第379页)
-    - [[markdown/page_382|12.1.5 Scaled self-attention]] (第382页)
-    - [[markdown/page_382|12.1.6 Multi-head attention]] (第382页)
-    - [[markdown/page_384|12.1.7 Transformer layers]] (第384页)
-    - [[markdown/page_386|12.1.8 Computational complexity]] (第386页)
-    - [[markdown/page_387|12.1.9 Positional encoding]] (第387页)
-  - [[markdown/page_390|12.2. Natural Language]] (第390页)
-    - [[markdown/page_391|12.2.1 Word embedding]] (第391页)
-    - [[markdown/page_393|12.2.2 Tokenization]] (第393页)
-    - [[markdown/page_394|12.2.3 Bag of words]] (第394页)
-    - [[markdown/page_395|12.2.4 Autoregressive models]] (第395页)
-    - [[markdown/page_396|12.2.5 Recurrent neural networks]] (第396页)
-    - [[markdown/page_397|12.2.6 Backpropagation through time]] (第397页)
-  - [[markdown/page_398|12.3. Transformer Language Models]] (第398页)
-    - [[markdown/page_399|12.3.1 Decoder transformers]] (第399页)
-    - [[markdown/page_402|12.3.2 Sampling strategies]] (第402页)
-    - [[markdown/page_404|12.3.3 Encoder transformers]] (第404页)
-    - [[markdown/page_406|12.3.4 Sequence-to-sequence transformers]] (第406页)
-    - [[markdown/page_406|12.3.5 Large language models]] (第406页)
-  - [[markdown/page_410|12.4. Multimodal Transformers]] (第410页)
-    - [[markdown/page_411|12.4.1 Vision transformers]] (第411页)
-    - [[markdown/page_412|12.4.2 Generative image transformers]] (第412页)
-    - [[markdown/page_415|12.4.3 Audio data]] (第415页)
-    - [[markdown/page_416|12.4.4 Text-to-speech]] (第416页)
-    - [[markdown/page_418|12.4.5 Vision and language transformers]] (第418页)
-  - [[markdown/page_419|Exercises]] (第419页)
-- [[markdown/page_423|13 Graph Neural Networks]] (第423页)
-  - [[markdown/page_425|13.1. Machine Learning on Graphs]] (第425页)
-    - [[markdown/page_426|13.1.1 Graph properties]] (第426页)
-    - [[markdown/page_426|13.1.2 Adjacency matrix]] (第426页)
-    - [[markdown/page_427|13.1.3 Permutation equivariance]] (第427页)
-  - [[markdown/page_428|13.2. Neural Message-Passing]] (第428页)
-    - [[markdown/page_429|13.2.1 Convolutional filters]] (第429页)
-    - [[markdown/page_430|13.2.2 Graph convolutional networks]] (第430页)
-    - [[markdown/page_432|13.2.3 Aggregation operators]] (第432页)
-    - [[markdown/page_434|13.2.4 Update operators]] (第434页)
-    - [[markdown/page_435|13.2.5 Node classification]] (第435页)
-    - [[markdown/page_436|13.2.6 Edge classification]] (第436页)
-    - [[markdown/page_436|13.2.7 Graph classification]] (第436页)
-  - [[markdown/page_436|13.3. General Graph Networks]] (第436页)
-    - [[markdown/page_437|13.3.1 Graph attention networks]] (第437页)
-    - [[markdown/page_437|13.3.2 Edge embeddings]] (第437页)
-    - [[markdown/page_438|13.3.3 Graph embeddings]] (第438页)
-    - [[markdown/page_438|13.3.4 Over-smoothing]] (第438页)
-    - [[markdown/page_439|13.3.5 Regularization]] (第439页)
-    - [[markdown/page_440|13.3.6 Geometric deep learning]] (第440页)
-  - [[markdown/page_441|Exercises]] (第441页)
-- [[markdown/page_444|14 Sampling]] (第444页)
-  - [[markdown/page_445|14.1. Basic Sampling Algorithms]] (第445页)
-    - [[markdown/page_445|14.1.1 Expectations]] (第445页)
-    - [[markdown/page_446|14.1.2 Standard distributions]] (第446页)
-    - [[markdown/page_448|14.1.3 Rejection sampling]] (第448页)
-    - [[markdown/page_450|14.1.4 Adaptive rejection sampling]] (第450页)
-    - [[markdown/page_452|14.1.5 Importance sampling]] (第452页)
-    - [[markdown/page_454|14.1.6 Sampling-importance-resampling]] (第454页)
-  - [[markdown/page_455|14.2. Markov Chain Monte Carlo]] (第455页)
-    - [[markdown/page_456|14.2.1 The Metropolis algorithm]] (第456页)
-    - [[markdown/page_457|14.2.2 Markov chains]] (第457页)
-    - [[markdown/page_460|14.2.3 The Metropolis–Hastings algorithm]] (第460页)
-    - [[markdown/page_461|14.2.4 Gibbs sampling]] (第461页)
-    - [[markdown/page_465|14.2.5 Ancestral sampling]] (第465页)
-  - [[markdown/page_466|14.3. Langevin Sampling]] (第466页)
-    - [[markdown/page_467|14.3.1 Energy-based models]] (第467页)
-    - [[markdown/page_468|14.3.2 Maximizing the likelihood]] (第468页)
-    - [[markdown/page_469|14.3.3 Langevin dynamics]] (第469页)
-  - [[markdown/page_471|Exercises]] (第471页)
-- [[markdown/page_474|15 Discrete Latent Variables]] (第474页)
-  - [[markdown/page_475|15.1. K-means Clustering]] (第475页)
-    - [[markdown/page_479|15.1.1 Image segmentation]] (第479页)
-  - [[markdown/page_481|15.2. Mixtures of Gaussians]] (第481页)
-    - [[markdown/page_483|15.2.1 Likelihood function]] (第483页)
-    - [[markdown/page_485|15.2.2 Maximum likelihood]] (第485页)
-  - [[markdown/page_489|15.3. Expectation–Maximization Algorithm]] (第489页)
-    - [[markdown/page_493|15.3.1 Gaussian mixtures]] (第493页)
-    - [[markdown/page_495|15.3.2 Relation to K-means]] (第495页)
-    - [[markdown/page_496|15.3.3 Mixtures of Bernoulli distributions]] (第496页)
-  - [[markdown/page_500|15.4. Evidence Lower Bound]] (第500页)
-    - [[markdown/page_501|15.4.1 EM revisited]] (第501页)
-    - [[markdown/page_503|15.4.2 Independent and identically distributed data]] (第503页)
-    - [[markdown/page_504|15.4.3 Parameter priors]] (第504页)
-    - [[markdown/page_504|15.4.4 Generalized EM]] (第504页)
-    - [[markdown/page_505|15.4.5 Sequential EM]] (第505页)
-  - [[markdown/page_505|Exercises]] (第505页)
-- [[markdown/page_509|16 Continuous Latent Variables]] (第509页)
-  - [[markdown/page_511|16.1. Principal Component Analysis]] (第511页)
-    - [[markdown/page_511|16.1.1 Maximum variance formulation]] (第511页)
-    - [[markdown/page_513|16.1.2 Minimum-error formulation]] (第513页)
-    - [[markdown/page_515|16.1.3 Data compression]] (第515页)
-    - [[markdown/page_516|16.1.4 Data whitening]] (第516页)
-    - [[markdown/page_518|16.1.5 High-dimensional data]] (第518页)
-  - [[markdown/page_520|16.2. Probabilistic Latent Variables]] (第520页)
-    - [[markdown/page_520|16.2.1 Generative model]] (第520页)
-    - [[markdown/page_521|16.2.2 Likelihood function]] (第521页)
-    - [[markdown/page_523|16.2.3 Maximum likelihood]] (第523页)
-    - [[markdown/page_527|16.2.4 Factor analysis]] (第527页)
-    - [[markdown/page_528|16.2.5 Independent component analysis]] (第528页)
-    - [[markdown/page_529|16.2.6 Kalman filters]] (第529页)
-  - [[markdown/page_530|16.3. Evidence Lower Bound]] (第530页)
-    - [[markdown/page_532|16.3.1 Expectation maximization]] (第532页)
-    - [[markdown/page_533|16.3.2 EM for PCA]] (第533页)
-    - [[markdown/page_534|16.3.3 EM for factor analysis]] (第534页)
-  - [[markdown/page_536|16.4. Nonlinear Latent Variable Models]] (第536页)
-    - [[markdown/page_536|16.4.1 Nonlinear manifolds]] (第536页)
-    - [[markdown/page_538|16.4.2 Likelihood function]] (第538页)
-    - [[markdown/page_540|16.4.3 Discrete data]] (第540页)
-    - [[markdown/page_541|16.4.4 Four approaches to generative modelling]] (第541页)
-  - [[markdown/page_541|Exercises]] (第541页)
-- [[markdown/page_546|17 Generative Adversarial Networks]] (第546页)
-  - [[markdown/page_547|17.1. Adversarial Training]] (第547页)
-    - [[markdown/page_548|17.1.1 Loss function]] (第548页)
-    - [[markdown/page_549|17.1.2 GAN training in practice]] (第549页)
-  - [[markdown/page_552|17.2. Image GANs]] (第552页)
-    - [[markdown/page_552|17.2.1 CycleGAN]] (第552页)
-  - [[markdown/page_557|Exercises]] (第557页)
-- [[markdown/page_559|18 Normalizing Flows]] (第559页)
-  - [[markdown/page_561|18.1. Coupling Flows]] (第561页)
-  - [[markdown/page_564|18.2. Autoregressive Flows]] (第564页)
-  - [[markdown/page_566|18.3. Continuous Flows]] (第566页)
-    - [[markdown/page_566|18.3.1 Neural differential equations]] (第566页)
-    - [[markdown/page_567|18.3.2 Neural ODE backpropagation]] (第567页)
-    - [[markdown/page_569|18.3.3 Neural ODE flows]] (第569页)
-  - [[markdown/page_571|Exercises]] (第571页)
-- [[markdown/page_574|19 Autoencoders]] (第574页)
-  - [[markdown/page_575|19.1. Deterministic Autoencoders]] (第575页)
-    - [[markdown/page_575|19.1.1 Linear autoencoders]] (第575页)
-    - [[markdown/page_576|19.1.2 Deep autoencoders]] (第576页)
-    - [[markdown/page_577|19.1.3 Sparse autoencoders]] (第577页)
-    - [[markdown/page_578|19.1.4 Denoising autoencoders]] (第578页)
-    - [[markdown/page_578|19.1.5 Masked autoencoders]] (第578页)
-  - [[markdown/page_580|19.2. Variational Autoencoders]] (第580页)
-    - [[markdown/page_583|19.2.1 Amortized inference]] (第583页)
-    - [[markdown/page_585|19.2.2 The reparameterization trick]] (第585页)
-  - [[markdown/page_589|Exercises]] (第589页)
-- [[markdown/page_591|20 Diffusion Models]] (第591页)
-  - [[markdown/page_592|20.1. Forward Encoder]] (第592页)
-    - [[markdown/page_593|20.1.1 Diffusion kernel]] (第593页)
-    - [[markdown/page_594|20.1.2 Conditional distribution]] (第594页)
-  - [[markdown/page_595|20.2. Reverse Decoder]] (第595页)
-    - [[markdown/page_597|20.2.1 Training the decoder]] (第597页)
-    - [[markdown/page_598|20.2.2 Evidence lower bound]] (第598页)
-    - [[markdown/page_599|20.2.3 Rewriting the ELBO]] (第599页)
-    - [[markdown/page_601|20.2.4 Predicting the noise]] (第601页)
-    - [[markdown/page_602|20.2.5 Generating new samples]] (第602页)
-  - [[markdown/page_604|20.3. Score Matching]] (第604页)
-    - [[markdown/page_605|20.3.1 Score loss function]] (第605页)
-    - [[markdown/page_606|20.3.2 Modified score loss]] (第606页)
-    - [[markdown/page_607|20.3.3 Noise variance]] (第607页)
-    - [[markdown/page_608|20.3.4 Stochastic differential equations]] (第608页)
-  - [[markdown/page_609|20.4. Guided Diffusion]] (第609页)
-    - [[markdown/page_610|20.4.1 Classifier guidance]] (第610页)
-    - [[markdown/page_610|20.4.2 Classifier-free guidance]] (第610页)
-  - [[markdown/page_613|Exercises]] (第613页)
-- [[markdown/page_625|Appendix B. Calculus of Variations]] (第625页)
-- [[markdown/page_628|Appendix C. Lagrange Multipliers]] (第628页)
-- [[markdown/page_632|Bibliography]] (第632页)
-- [[markdown/page_648|Index]] (第648页)
+- [[markdown/page_005|Preface]] (第5页) - 前言
+  - [[markdown/page_005|Goals of the book]] (第5页) - 本书目标
+  - [[markdown/page_006|Responsible use of technology]] (第6页) - 技术的负责任使用
+  - [[markdown/page_006|Structure of the book]] (第6页) - 本书结构
+  - [[markdown/page_007|References]] (第7页) - 参考文献
+  - [[markdown/page_008|Exercises]] (第8页) - 练习
+  - [[markdown/page_008|Mathematical notation]] (第8页) - 数学符号
+  - [[markdown/page_009|Acknowledgements]] (第9页) - 致谢
+- [[markdown/page_011|Contents]] (第11页) - 目录
+- [[markdown/page_021|1 The Deep Learning Revolution]] (第21页) - 深度学习革命
+  - [[markdown/page_022|1.1. The Impact of Deep Learning]] (第22页) - 深度学习的影响
+    - [[markdown/page_022|1.1.1 Medical diagnosis]] (第22页) - 医疗诊断
+    - [[markdown/page_023|1.1.2 Protein structure]] (第23页) - 蛋白质结构
+    - [[markdown/page_024|1.1.3 Image synthesis]] (第24页) - 图像合成
+    - [[markdown/page_025|1.1.4 Large language models]] (第25页) - 大型语言模型
+  - [[markdown/page_026|1.2. A Tutorial Example]] (第26页) - 教程示例
+    - [[markdown/page_026|1.2.1 Synthetic data]] (第26页) - 合成数据
+    - [[markdown/page_028|1.2.2 Linear models]] (第28页) - 线性模型
+    - [[markdown/page_028|1.2.3 Error function]] (第28页) - 误差函数
+    - [[markdown/page_029|1.2.4 Model complexity]] (第29页) - 模型复杂度
+    - [[markdown/page_032|1.2.5 Regularization]] (第32页) - 正则化
+    - [[markdown/page_034|1.2.6 Model selection]] (第34页) - 模型选择
+  - [[markdown/page_036|1.3. A Brief History of Machine Learning]] (第36页) - 机器学习简史
+    - [[markdown/page_037|1.3.1 Single-layer networks]] (第37页) - 单层网络
+    - [[markdown/page_038|1.3.2 Backpropagation]] (第38页) - 反向传播
+    - [[markdown/page_040|1.3.3 Deep networks]] (第40页) - 深度网络
+- [[markdown/page_043|2 Probabilities]] (第43页) - 概率
+  - [[markdown/page_045|2.1. The Rules of Probability]] (第45页) - 概率规则
+    - [[markdown/page_045|2.1.1 A medical screening example]] (第45页) - 医疗筛查示例
+    - [[markdown/page_046|2.1.2 The sum and product rules]] (第46页) - 加法规则和乘法规则
+    - [[markdown/page_048|2.1.3 Bayes’ theorem]] (第48页) - 贝叶斯定理
+    - [[markdown/page_050|2.1.4 Medical screening revisited]] (第50页) - 医疗筛查再探
+    - [[markdown/page_051|2.1.5 Prior and posterior probabilities]] (第51页) - 先验概率和后验概率
+    - [[markdown/page_051|2.1.6 Independent variables]] (第51页) - 独立变量
+  - [[markdown/page_052|2.2. Probability Densities]] (第52页) - 概率密度
+    - [[markdown/page_053|2.2.1 Example distributions]] (第53页) - 分布示例
+    - [[markdown/page_054|2.2.2 Expectations and covariances]] (第54页) - 期望和协方差
+  - [[markdown/page_056|2.3. The Gaussian Distribution]] (第56页) - 高斯分布
+    - [[markdown/page_057|2.3.1 Mean and variance]] (第57页) - 均值和方差
+    - [[markdown/page_057|2.3.2 Likelihood function]] (第57页) - 似然函数
+    - [[markdown/page_059|2.3.3 Bias of maximum likelihood]] (第59页) - 最大似然的偏差
+    - [[markdown/page_060|2.3.4 Linear regression]] (第60页) - 线性回归
+  - [[markdown/page_062|2.4. Transformation of Densities]] (第62页) - 密度变换
+    - [[markdown/page_064|2.4.1 Multivariate distributions]] (第64页) - 多变量分布
+  - [[markdown/page_066|2.5. Information Theory]] (第66页) - 信息论
+    - [[markdown/page_066|2.5.1 Entropy]] (第66页) - 熵
+    - [[markdown/page_067|2.5.2 Physics perspective]] (第67页) - 物理学视角
+    - [[markdown/page_069|2.5.3 Differential entropy]] (第69页) - 微分熵
+    - [[markdown/page_070|2.5.4 Maximum entropy]] (第70页) - 最大熵
+    - [[markdown/page_071|2.5.5 Kullback–Leibler divergence]] (第71页) - KL散度
+    - [[markdown/page_073|2.5.6 Conditional entropy]] (第73页) - 条件熵
+    - [[markdown/page_074|2.5.7 Mutual information]] (第74页) - 互信息
+  - [[markdown/page_074|2.6. Bayesian Probabilities]] (第74页) - 贝叶斯概率
+    - [[markdown/page_075|2.6.1 Model parameters]] (第75页) - 模型参数
+    - [[markdown/page_076|2.6.2 Regularization]] (第76页) - 正则化
+    - [[markdown/page_077|2.6.3 Bayesian machine learning]] (第77页) - 贝叶斯机器学习
+  - [[markdown/page_078|Exercises]] (第78页) - 练习
+- [[markdown/page_084|3 Standard Distributions]] (第84页) - 标准分布
+  - [[markdown/page_085|3.1. Discrete Variables]] (第85页) - 离散变量
+    - [[markdown/page_085|3.1.1 Bernoulli distribution]] (第85页) - 伯努利分布
+    - [[markdown/page_086|3.1.2 Binomial distribution]] (第86页) - 二项分布
+    - [[markdown/page_087|3.1.3 Multinomial distribution]] (第87页) - 多项分布
+  - [[markdown/page_089|3.2. The Multivariate Gaussian]] (第89页) - 多元高斯分布
+    - [[markdown/page_090|3.2.1 Geometry of the Gaussian]] (第90页) - 高斯几何
+    - [[markdown/page_093|3.2.2 Moments]] (第93页) - 矩
+    - [[markdown/page_094|3.2.3 Limitations]] (第94页) - 局限性
+    - [[markdown/page_095|3.2.4 Conditional distribution]] (第95页) - 条件分布
+    - [[markdown/page_098|3.2.5 Marginal distribution]] (第98页) - 边缘分布
+    - [[markdown/page_100|3.2.6 Bayes’ theorem]] (第100页) - 贝叶斯定理
+    - [[markdown/page_103|3.2.7 Maximum likelihood]] (第103页) - 最大似然
+    - [[markdown/page_104|3.2.8 Sequential estimation]] (第104页) - 序贯估计
+    - [[markdown/page_105|3.2.9 Mixtures of Gaussians]] (第105页) - 高斯混合
+  - [[markdown/page_108|3.3. Periodic Variables]] (第108页) - 周期变量
+    - [[markdown/page_108|3.3.1 Von Mises distribution]] (第108页) - 冯·米塞斯分布
+  - [[markdown/page_113|3.4. The Exponential Family]] (第113页) - 指数族
+    - [[markdown/page_116|3.4.1 Sufficient statistics]] (第116页) - 充分统计量
+  - [[markdown/page_117|3.5. Nonparametric Methods]] (第117页) - 非参数方法
+    - [[markdown/page_117|3.5.1 Histograms]] (第117页) - 直方图
+    - [[markdown/page_119|3.5.2 Kernel densities]] (第119页) - 核密度
+    - [[markdown/page_122|3.5.3 Nearest-neighbours]] (第122页) - 最近邻
+  - [[markdown/page_124|Exercises]] (第124页) - 练习
+- [[markdown/page_130|4 Single-layer Networks: Regression]] (第130页) - 单层网络：回归
+  - [[markdown/page_131|4.1. Linear Regression]] (第131页) - 线性回归
+    - [[markdown/page_131|4.1.1 Basis functions]] (第131页) - 基函数
+    - [[markdown/page_133|4.1.2 Likelihood function]] (第133页) - 似然函数
+    - [[markdown/page_134|4.1.3 Maximum likelihood]] (第134页) - 最大似然
+    - [[markdown/page_136|4.1.4 Geometry of least squares]] (第136页) - 最小二乘几何
+    - [[markdown/page_136|4.1.5 Sequential learning]] (第136页) - 序贯学习
+    - [[markdown/page_137|4.1.6 Regularized least squares]] (第137页) - 正则化最小二乘
+    - [[markdown/page_138|4.1.7 Multiple outputs]] (第138页) - 多输出
+  - [[markdown/page_139|4.2. Decision theory]] (第139页) - 决策理论
+  - [[markdown/page_142|4.3. The Bias–Variance Trade-off]] (第142页) - 偏差-方差权衡
+  - [[markdown/page_147|Exercises]] (第147页) - 练习
+- [[markdown/page_150|5 Single-layer Networks: Classification]] (第150页) - 单层网络：分类
+  - [[markdown/page_151|5.1. Discriminant Functions]] (第151页) - 判别函数
+    - [[markdown/page_151|5.1.1 Two classes]] (第151页) - 二分类
+    - [[markdown/page_153|5.1.2 Multiple classes]] (第153页) - 多分类
+    - [[markdown/page_154|5.1.3 1-of-K coding]] (第154页) - 1-of-K编码
+    - [[markdown/page_155|5.1.4 Least squares for classification]] (第155页) - 用于分类的最小二乘
+  - [[markdown/page_157|5.2. Decision Theory]] (第157页) - 决策理论
+    - [[markdown/page_158|5.2.1 Misclassification rate]] (第158页) - 误分类率
+    - [[markdown/page_159|5.2.2 Expected loss]] (第159页) - 期望损失
+    - [[markdown/page_161|5.2.3 The reject option]] (第161页) - 拒绝选项
+    - [[markdown/page_162|5.2.4 Inference and decision]] (第162页) - 推断和决策
+    - [[markdown/page_166|5.2.5 Classifier accuracy]] (第166页) - 分类器准确度
+    - [[markdown/page_167|5.2.6 ROC curve]] (第167页) - ROC曲线
+  - [[markdown/page_169|5.3. Generative Classifiers]] (第169页) - 生成式分类器
+    - [[markdown/page_171|5.3.1 Continuous inputs]] (第171页) - 连续输入
+    - [[markdown/page_172|5.3.2 Maximum likelihood solution]] (第172页) - 最大似然解
+    - [[markdown/page_175|5.3.3 Discrete features]] (第175页) - 离散特征
+    - [[markdown/page_175|5.3.4 Exponential family]] (第175页) - 指数族
+  - [[markdown/page_176|5.4. Discriminative Classifiers]] (第176页) - 判别式分类器
+    - [[markdown/page_177|5.4.1 Activation functions]] (第177页) - 激活函数
+    - [[markdown/page_177|5.4.2 Fixed basis functions]] (第177页) - 固定基函数
+    - [[markdown/page_178|5.4.3 Logistic regression]] (第178页) - 逻辑回归
+    - [[markdown/page_180|5.4.4 Multi-class logistic regression]] (第180页) - 多类逻辑回归
+    - [[markdown/page_182|5.4.5 Probit regression]] (第182页) - Probit回归
+    - [[markdown/page_183|5.4.6 Canonical link functions]] (第183页) - 典型链接函数
+  - [[markdown/page_185|Exercises]] (第185页) - 练习
+- [[markdown/page_189|6 Deep Neural Networks]] (第189页) - 深度神经网络
+  - [[markdown/page_190|6.1. Limitations of Fixed Basis Functions]] (第190页) - 固定基函数的局限性
+    - [[markdown/page_190|6.1.1 The curse of dimensionality]] (第190页) - 维度灾难
+    - [[markdown/page_193|6.1.2 High-dimensional spaces]] (第193页) - 高维空间
+    - [[markdown/page_194|6.1.3 Data manifolds]] (第194页) - 数据流形
+    - [[markdown/page_196|6.1.4 Data-dependent basis functions]] (第196页) - 数据依赖的基函数
+  - [[markdown/page_198|6.2. Multilayer Networks]] (第198页) - 多层网络
+    - [[markdown/page_199|6.2.1 Parameter matrices]] (第199页) - 参数矩阵
+    - [[markdown/page_199|6.2.2 Universal approximation]] (第199页) - 通用逼近
+    - [[markdown/page_200|6.2.3 Hidden unit activation functions]] (第200页) - 隐藏单元激活函数
+    - [[markdown/page_203|6.2.4 Weight-space symmetries]] (第203页) - 权重空间对称性
+  - [[markdown/page_204|6.3. Deep Networks]] (第204页) - 深度网络
+    - [[markdown/page_205|6.3.1 Hierarchical representations]] (第205页) - 层次表示
+    - [[markdown/page_205|6.3.2 Distributed representations]] (第205页) - 分布式表示
+    - [[markdown/page_206|6.3.3 Representation learning]] (第206页) - 表示学习
+    - [[markdown/page_207|6.3.4 Transfer learning]] (第207页) - 迁移学习
+    - [[markdown/page_209|6.3.5 Contrastive learning]] (第209页) - 对比学习
+    - [[markdown/page_211|6.3.6 General network architectures]] (第211页) - 通用网络架构
+    - [[markdown/page_212|6.3.7 Tensors]] (第212页) - 张量
+  - [[markdown/page_212|6.4. Error Functions]] (第212页) - 误差函数
+    - [[markdown/page_212|6.4.1 Regression]] (第212页) - 回归
+    - [[markdown/page_214|6.4.2 Binary classification]] (第214页) - 二分类
+    - [[markdown/page_215|6.4.3 multiclass classification]] (第215页) - 多类分类
+  - [[markdown/page_216|6.5. Mixture Density Networks]] (第216页) - 混合密度网络
+    - [[markdown/page_216|6.5.1 Robot kinematics example]] (第216页) - 机器人运动学示例
+    - [[markdown/page_217|6.5.2 Conditional mixture distributions]] (第217页) - 条件混合分布
+    - [[markdown/page_219|6.5.3 Gradient optimization]] (第219页) - 梯度优化
+    - [[markdown/page_220|6.5.4 Predictive distribution]] (第220页) - 预测分布
+  - [[markdown/page_222|Exercises]] (第222页) - 练习
+- [[markdown/page_226|7 Gradient Descent]] (第226页) - 梯度下降
+  - [[markdown/page_227|7.1. Error Surfaces]] (第227页) - 误差曲面
+    - [[markdown/page_228|7.1.1 Local quadratic approximation]] (第228页) - 局部二次近似
+  - [[markdown/page_230|7.2. Gradient Descent Optimization]] (第230页) - 梯度下降优化
+    - [[markdown/page_231|7.2.1 Use of gradient information]] (第231页) - 梯度信息的利用
+    - [[markdown/page_231|7.2.2 Batch gradient descent]] (第231页) - 批量梯度下降
+    - [[markdown/page_231|7.2.3 Stochastic gradient descent]] (第231页) - 随机梯度下降
+    - [[markdown/page_233|7.2.4 Mini-batches]] (第233页) - 小批量
+    - [[markdown/page_233|7.2.5 Parameter initialization]] (第233页) - 参数初始化
+  - [[markdown/page_235|7.3. Convergence]] (第235页) - 收敛性
+    - [[markdown/page_237|7.3.1 Momentum]] (第237页) - 动量
+    - [[markdown/page_239|7.3.2 Learning rate schedule]] (第239页) - 学习率调度
+    - [[markdown/page_240|7.3.3 RMSProp and Adam]] (第240页) - RMSProp和Adam
+  - [[markdown/page_241|7.4. Normalization]] (第241页) - 归一化
+    - [[markdown/page_243|7.4.1 Data normalization]] (第243页) - 数据归一化
+    - [[markdown/page_244|7.4.2 Batch normalization]] (第244页) - 批归一化
+    - [[markdown/page_246|7.4.3 Layer normalization]] (第246页) - 层归一化
+  - [[markdown/page_247|Exercises]] (第247页) - 练习
+- [[markdown/page_250|8 Backpropagation]] (第250页) - 反向传播
+  - [[markdown/page_251|8.1. Evaluation of Gradients]] (第251页) - 梯度计算
+    - [[markdown/page_251|8.1.1 Single-layer networks]] (第251页) - 单层网络
+    - [[markdown/page_252|8.1.2 General feed-forward networks]] (第252页) - 一般前馈网络
+    - [[markdown/page_255|8.1.3 A simple example]] (第255页) - 简单示例
+    - [[markdown/page_256|8.1.4 Numerical differentiation]] (第256页) - 数值微分
+    - [[markdown/page_257|8.1.5 The Jacobian matrix]] (第257页) - 雅可比矩阵
+    - [[markdown/page_259|8.1.6 The Hessian matrix]] (第259页) - 海森矩阵
+  - [[markdown/page_261|8.2. Automatic Differentiation]] (第261页) - 自动微分
+    - [[markdown/page_263|8.2.1 Forward-mode automatic differentiation]] (第263页) - 前向模式自动微分
+    - [[markdown/page_266|8.2.2 Reverse-mode automatic differentiation]] (第266页) - 反向模式自动微分
+  - [[markdown/page_267|Exercises]] (第267页) - 练习
+- [[markdown/page_270|9 Regularization]] (第270页) - 正则化
+  - [[markdown/page_271|9.1. Inductive Bias]] (第271页) - 归纳偏置
+    - [[markdown/page_271|9.1.1 Inverse problems]] (第271页) - 反问题
+    - [[markdown/page_272|9.1.2 No free lunch theorem]] (第272页) - 免费午餐定理
+    - [[markdown/page_273|9.1.3 Symmetry and invariance]] (第273页) - 对称性和不变性
+    - [[markdown/page_276|9.1.4 Equivariance]] (第276页) - 等变性
+  - [[markdown/page_277|9.2. Weight Decay]] (第277页) - 权重衰减
+    - [[markdown/page_279|9.2.1 Consistent regularizers]] (第279页) - 一致正则化项
+    - [[markdown/page_281|9.2.2 Generalized weight decay]] (第281页) - 广义权重衰减
+  - [[markdown/page_283|9.3. Learning Curves]] (第283页) - 学习曲线
+    - [[markdown/page_283|9.3.1 Early stopping]] (第283页) - 早停
+    - [[markdown/page_285|9.3.2 Double descent]] (第285页) - 双重下降
+  - [[markdown/page_287|9.4. Parameter Sharing]] (第287页) - 参数共享
+    - [[markdown/page_288|9.4.1 Soft weight sharing]] (第288页) - 软权重共享
+  - [[markdown/page_291|9.5. Residual Connections]] (第291页) - 残差连接
+  - [[markdown/page_294|9.6. Model Averaging]] (第294页) - 模型平均
+    - [[markdown/page_296|9.6.1 Dropout]] (第296页) - Dropout
+  - [[markdown/page_298|Exercises]] (第298页) - 练习
+- [[markdown/page_303|10 Convolutional Networks]] (第303页) - 卷积网络
+  - [[markdown/page_304|10.1. Computer Vision]] (第304页) - 计算机视觉
+    - [[markdown/page_305|10.1.1 Image data]] (第305页) - 图像数据
+  - [[markdown/page_306|10.2. Convolutional Filters]] (第306页) - 卷积滤波器
+    - [[markdown/page_306|10.2.1 Feature detectors]] (第306页) - 特征检测器
+    - [[markdown/page_307|10.2.2 Translation equivariance]] (第307页) - 平移等变性
+    - [[markdown/page_310|10.2.3 Padding]] (第310页) - 填充
+    - [[markdown/page_310|10.2.4 Strided convolutions]] (第310页) - 步进卷积
+    - [[markdown/page_311|10.2.5 Multi-dimensional convolutions]] (第311页) - 多维卷积
+    - [[markdown/page_312|10.2.6 Pooling]] (第312页) - 池化
+    - [[markdown/page_314|10.2.7 Multilayer convolutions]] (第314页) - 多层卷积
+    - [[markdown/page_315|10.2.8 Example network architectures]] (第315页) - 示例网络架构
+  - [[markdown/page_318|10.3. Visualizing Trained CNNs]] (第318页) - 可视化训练好的CNN
+    - [[markdown/page_318|10.3.1 Visual cortex]] (第318页) - 视觉皮层
+    - [[markdown/page_319|10.3.2 Visualizing trained filters]] (第319页) - 可视化训练好的滤波器
+    - [[markdown/page_321|10.3.3 Saliency maps]] (第321页) - 显著性图
+    - [[markdown/page_322|10.3.4 Adversarial attacks]] (第322页) - 对抗攻击
+    - [[markdown/page_324|10.3.5 Synthetic images]] (第324页) - 合成图像
+  - [[markdown/page_324|10.4. Object Detection]] (第324页) - 目标检测
+    - [[markdown/page_325|10.4.1 Bounding boxes]] (第325页) - 边界框
+    - [[markdown/page_326|10.4.2 Intersection-over-union]] (第326页) - 交并比
+    - [[markdown/page_327|10.4.3 Sliding windows]] (第327页) - 滑动窗口
+    - [[markdown/page_329|10.4.4 Detection across scales]] (第329页) - 跨尺度检测
+    - [[markdown/page_330|10.4.5 Non-max suppression]] (第330页) - 非极大值抑制
+    - [[markdown/page_330|10.4.6 Fast region CNNs]] (第330页) - 快速区域CNN
+  - [[markdown/page_331|10.5. Image Segmentation]] (第331页) - 图像分割
+    - [[markdown/page_331|10.5.1 Convolutional segmentation]] (第331页) - 卷积分割
+    - [[markdown/page_332|10.5.2 Up-sampling]] (第332页) - 上采样
+    - [[markdown/page_334|10.5.3 Fully convolutional networks]] (第334页) - 全卷积网络
+    - [[markdown/page_335|10.5.4 The U-net architecture]] (第335页) - U-net架构
+  - [[markdown/page_336|10.6. Style Transfer]] (第336页) - 风格迁移
+  - [[markdown/page_338|Exercises]] (第338页) - 练习
+- [[markdown/page_341|11 Structured Distributions]] (第341页) - 结构化分布
+  - [[markdown/page_342|11.1. Graphical Models]] (第342页) - 图模型
+    - [[markdown/page_342|11.1.1 Directed graphs]] (第342页) - 有向图
+    - [[markdown/page_343|11.1.2 Factorization]] (第343页) - 因子分解
+    - [[markdown/page_345|11.1.3 Discrete variables]] (第345页) - 离散变量
+    - [[markdown/page_348|11.1.4 Gaussian variables]] (第348页) - 高斯变量
+    - [[markdown/page_350|11.1.5 Binary classifier]] (第350页) - 二分类器
+    - [[markdown/page_350|11.1.6 Parameters and observations]] (第350页) - 参数和观测
+    - [[markdown/page_352|11.1.7 Bayes’ theorem]] (第352页) - 贝叶斯定理
+  - [[markdown/page_353|11.2. Conditional Independence]] (第353页) - 条件独立性
+    - [[markdown/page_354|11.2.1 Three example graphs]] (第354页) - 三个示例图
+    - [[markdown/page_357|11.2.2 Explaining away]] (第357页) - 解释消失
+    - [[markdown/page_359|11.2.3 D-separation]] (第359页) - D分离
+    - [[markdown/page_360|11.2.4 Naive Bayes]] (第360页) - 朴素贝叶斯
+    - [[markdown/page_362|11.2.5 Generative models]] (第362页) - 生成模型
+    - [[markdown/page_363|11.2.6 Markov blanket]] (第363页) - 马尔可夫毯
+    - [[markdown/page_364|11.2.7 Graphs as filters]] (第364页) - 图作为滤波器
+  - [[markdown/page_365|11.3. Sequence Models]] (第365页) - 序列模型
+    - [[markdown/page_368|11.3.1 Hidden variables]] (第368页) - 隐变量
+  - [[markdown/page_369|Exercises]] (第369页) - 练习
+- [[markdown/page_373|12 Transformers]] (第373页) - 变换器
+  - [[markdown/page_374|12.1. Attention]] (第374页) - 注意力
+    - [[markdown/page_376|12.1.1 Transformer processing]] (第376页) - 变换器处理
+    - [[markdown/page_377|12.1.2 Attention coefficients]] (第377页) - 注意力系数
+    - [[markdown/page_378|12.1.3 Self-attention]] (第378页) - 自注意力
+    - [[markdown/page_379|12.1.4 Network parameters]] (第379页) - 网络参数
+    - [[markdown/page_382|12.1.5 Scaled self-attention]] (第382页) - 缩放自注意力
+    - [[markdown/page_382|12.1.6 Multi-head attention]] (第382页) - 多头注意力
+    - [[markdown/page_384|12.1.7 Transformer layers]] (第384页) - 变换器层
+    - [[markdown/page_386|12.1.8 Computational complexity]] (第386页) - 计算复杂度
+    - [[markdown/page_387|12.1.9 Positional encoding]] (第387页) - 位置编码
+  - [[markdown/page_390|12.2. Natural Language]] (第390页) - 自然语言
+    - [[markdown/page_391|12.2.1 Word embedding]] (第391页) - 词嵌入
+    - [[markdown/page_393|12.2.2 Tokenization]] (第393页) - 分词
+    - [[markdown/page_394|12.2.3 Bag of words]] (第394页) - 词袋
+    - [[markdown/page_395|12.2.4 Autoregressive models]] (第395页) - 自回归模型
+    - [[markdown/page_396|12.2.5 Recurrent neural networks]] (第396页) - 循环神经网络
+    - [[markdown/page_397|12.2.6 Backpropagation through time]] (第397页) - 随时间反向传播
+  - [[markdown/page_398|12.3. Transformer Language Models]] (第398页) - 变换器语言模型
+    - [[markdown/page_399|12.3.1 Decoder transformers]] (第399页) - 解码器变换器
+    - [[markdown/page_402|12.3.2 Sampling strategies]] (第402页) - 采样策略
+    - [[markdown/page_404|12.3.3 Encoder transformers]] (第404页) - 编码器变换器
+    - [[markdown/page_406|12.3.4 Sequence-to-sequence transformers]] (第406页) - 序列到序列变换器
+    - [[markdown/page_406|12.3.5 Large language models]] (第406页) - 大型语言模型
+  - [[markdown/page_410|12.4. Multimodal Transformers]] (第410页) - 多模态变换器
+    - [[markdown/page_411|12.4.1 Vision transformers]] (第411页) - 视觉变换器
+    - [[markdown/page_412|12.4.2 Generative image transformers]] (第412页) - 生成图像变换器
+    - [[markdown/page_415|12.4.3 Audio data]] (第415页) - 音频数据
+    - [[markdown/page_416|12.4.4 Text-to-speech]] (第416页) - 文本转语音
+    - [[markdown/page_418|12.4.5 Vision and language transformers]] (第418页) - 视觉和语言变换器
+  - [[markdown/page_419|Exercises]] (第419页) - 练习
+- [[markdown/page_423|13 Graph Neural Networks]] (第423页) - 图神经网络
+  - [[markdown/page_425|13.1. Machine Learning on Graphs]] (第425页) - 图上的机器学习
+    - [[markdown/page_426|13.1.1 Graph properties]] (第426页) - 图性质
+    - [[markdown/page_426|13.1.2 Adjacency matrix]] (第426页) - 邻接矩阵
+    - [[markdown/page_427|13.1.3 Permutation equivariance]] (第427页) - 置换等变性
+  - [[markdown/page_428|13.2. Neural Message-Passing]] (第428页) - 神经消息传递
+    - [[markdown/page_429|13.2.1 Convolutional filters]] (第429页) - 卷积滤波器
+    - [[markdown/page_430|13.2.2 Graph convolutional networks]] (第430页) - 图卷积网络
+    - [[markdown/page_432|13.2.3 Aggregation operators]] (第432页) - 聚合算子
+    - [[markdown/page_434|13.2.4 Update operators]] (第434页) - 更新算子
+    - [[markdown/page_435|13.2.5 Node classification]] (第435页) - 节点分类
+    - [[markdown/page_436|13.2.6 Edge classification]] (第436页) - 边分类
+    - [[markdown/page_436|13.2.7 Graph classification]] (第436页) - 图分类
+  - [[markdown/page_436|13.3. General Graph Networks]] (第436页) - 通用图网络
+    - [[markdown/page_437|13.3.1 Graph attention networks]] (第437页) - 图注意力网络
+    - [[markdown/page_437|13.3.2 Edge embeddings]] (第437页) - 边嵌入
+    - [[markdown/page_438|13.3.3 Graph embeddings]] (第438页) - 图嵌入
+    - [[markdown/page_438|13.3.4 Over-smoothing]] (第438页) - 过平滑
+    - [[markdown/page_439|13.3.5 Regularization]] (第439页) - 正则化
+    - [[markdown/page_440|13.3.6 Geometric deep learning]] (第440页) - 几何深度学习
+  - [[markdown/page_441|Exercises]] (第441页) - 练习
+- [[markdown/page_444|14 Sampling]] (第444页) - 采样
+  - [[markdown/page_445|14.1. Basic Sampling Algorithms]] (第445页) - 基本采样算法
+    - [[markdown/page_445|14.1.1 Expectations]] (第445页) - 期望
+    - [[markdown/page_446|14.1.2 Standard distributions]] (第446页) - 标准分布
+    - [[markdown/page_448|14.1.3 Rejection sampling]] (第448页) - 拒绝采样
+    - [[markdown/page_450|14.1.4 Adaptive rejection sampling]] (第450页) - 自适应拒绝采样
+    - [[markdown/page_452|14.1.5 Importance sampling]] (第452页) - 重要性采样
+    - [[markdown/page_454|14.1.6 Sampling-importance-resampling]] (第454页) - 采样-重要性-重采样
+  - [[markdown/page_455|14.2. Markov Chain Monte Carlo]] (第455页) - 马尔可夫链蒙特卡洛
+    - [[markdown/page_456|14.2.1 The Metropolis algorithm]] (第456页) - Metropolis算法
+    - [[markdown/page_457|14.2.2 Markov chains]] (第457页) - 马尔可夫链
+    - [[markdown/page_460|14.2.3 The Metropolis–Hastings algorithm]] (第460页) - Metropolis-Hastings算法
+    - [[markdown/page_461|14.2.4 Gibbs sampling]] (第461页) - 吉布斯采样
+    - [[markdown/page_465|14.2.5 Ancestral sampling]] (第465页) - 祖先采样
+  - [[markdown/page_466|14.3. Langevin Sampling]] (第466页) - 朗之万采样
+    - [[markdown/page_467|14.3.1 Energy-based models]] (第467页) - 基于能量的模型
+    - [[markdown/page_468|14.3.2 Maximizing the likelihood]] (第468页) - 最大化似然
+    - [[markdown/page_469|14.3.3 Langevin dynamics]] (第469页) - 朗之万动力学
+  - [[markdown/page_471|Exercises]] (第471页) - 练习
+- [[markdown/page_474|15 Discrete Latent Variables]] (第474页) - 离散潜变量
+  - [[markdown/page_475|15.1. K-means Clustering]] (第475页) - K均值聚类
+    - [[markdown/page_479|15.1.1 Image segmentation]] (第479页) - 图像分割
+  - [[markdown/page_481|15.2. Mixtures of Gaussians]] (第481页) - 高斯混合
+    - [[markdown/page_483|15.2.1 Likelihood function]] (第483页) - 似然函数
+    - [[markdown/page_485|15.2.2 Maximum likelihood]] (第485页) - 最大似然
+  - [[markdown/page_489|15.3. Expectation–Maximization Algorithm]] (第489页) - 期望最大化算法
+    - [[markdown/page_493|15.3.1 Gaussian mixtures]] (第493页) - 高斯混合
+    - [[markdown/page_495|15.3.2 Relation to K-means]] (第495页) - 与K均值的关系
+    - [[markdown/page_496|15.3.3 Mixtures of Bernoulli distributions]] (第496页) - 伯努利分布混合
+  - [[markdown/page_500|15.4. Evidence Lower Bound]] (第500页) - 证据下界
+    - [[markdown/page_501|15.4.1 EM revisited]] (第501页) - EM再探
+    - [[markdown/page_503|15.4.2 Independent and identically distributed data]] (第503页) - 独立同分布数据
+    - [[markdown/page_504|15.4.3 Parameter priors]] (第504页) - 参数先验
+    - [[markdown/page_504|15.4.4 Generalized EM]] (第504页) - 广义EM
+    - [[markdown/page_505|15.4.5 Sequential EM]] (第505页) - 序贯EM
+  - [[markdown/page_505|Exercises]] (第505页) - 练习
+- [[markdown/page_509|16 Continuous Latent Variables]] (第509页) - 连续潜变量
+  - [[markdown/page_511|16.1. Principal Component Analysis]] (第511页) - 主成分分析
+    - [[markdown/page_511|16.1.1 Maximum variance formulation]] (第511页) - 最大方差公式
+    - [[markdown/page_513|16.1.2 Minimum-error formulation]] (第513页) - 最小误差公式
+    - [[markdown/page_515|16.1.3 Data compression]] (第515页) - 数据压缩
+    - [[markdown/page_516|16.1.4 Data whitening]] (第516页) - 数据白化
+    - [[markdown/page_518|16.1.5 High-dimensional data]] (第518页) - 高维数据
+  - [[markdown/page_520|16.2. Probabilistic Latent Variables]] (第520页) - 概率潜变量
+    - [[markdown/page_520|16.2.1 Generative model]] (第520页) - 生成模型
+    - [[markdown/page_521|16.2.2 Likelihood function]] (第521页) - 似然函数
+    - [[markdown/page_523|16.2.3 Maximum likelihood]] (第523页) - 最大似然
+    - [[markdown/page_527|16.2.4 Factor analysis]] (第527页) - 因子分析
+    - [[markdown/page_528|16.2.5 Independent component analysis]] (第528页) - 独立成分分析
+    - [[markdown/page_529|16.2.6 Kalman filters]] (第529页) - 卡尔曼滤波器
+  - [[markdown/page_530|16.3. Evidence Lower Bound]] (第530页) - 证据下界
+    - [[markdown/page_532|16.3.1 Expectation maximization]] (第532页) - 期望最大化
+    - [[markdown/page_533|16.3.2 EM for PCA]] (第533页) - PCA的EM
+    - [[markdown/page_534|16.3.3 EM for factor analysis]] (第534页) - 因子分析的EM
+  - [[markdown/page_536|16.4. Nonlinear Latent Variable Models]] (第536页) - 非线性潜变量模型
+    - [[markdown/page_536|16.4.1 Nonlinear manifolds]] (第536页) - 非线性流形
+    - [[markdown/page_538|16.4.2 Likelihood function]] (第538页) - 似然函数
+    - [[markdown/page_540|16.4.3 Discrete data]] (第540页) - 离散数据
+    - [[markdown/page_541|16.4.4 Four approaches to generative modelling]] (第541页) - 生成建模的四种方法
+  - [[markdown/page_541|Exercises]] (第541页) - 练习
+- [[markdown/page_546|17 Generative Adversarial Networks]] (第546页) - 生成对抗网络
+  - [[markdown/page_547|17.1. Adversarial Training]] (第547页) - 对抗训练
+    - [[markdown/page_548|17.1.1 Loss function]] (第548页) - 损失函数
+    - [[markdown/page_549|17.1.2 GAN training in practice]] (第549页) - GAN的实际训练
+  - [[markdown/page_552|17.2. Image GANs]] (第552页) - 图像GAN
+    - [[markdown/page_552|17.2.1 CycleGAN]] (第552页) - CycleGAN
+  - [[markdown/page_557|Exercises]] (第557页) - 练习
+- [[markdown/page_559|18 Normalizing Flows]] (第559页) - 归一化流
+  - [[markdown/page_561|18.1. Coupling Flows]] (第561页) - 耦合流
+  - [[markdown/page_564|18.2. Autoregressive Flows]] (第564页) - 自回归流
+  - [[markdown/page_566|18.3. Continuous Flows]] (第566页) - 连续流
+    - [[markdown/page_566|18.3.1 Neural differential equations]] (第566页) - 神经微分方程
+    - [[markdown/page_567|18.3.2 Neural ODE backpropagation]] (第567页) - 神经ODE反向传播
+    - [[markdown/page_569|18.3.3 Neural ODE flows]] (第569页) - 神经ODE流
+  - [[markdown/page_571|Exercises]] (第571页) - 练习
+- [[markdown/page_574|19 Autoencoders]] (第574页) - 自编码器
+  - [[markdown/page_575|19.1. Deterministic Autoencoders]] (第575页) - 确定性自编码器
+    - [[markdown/page_575|19.1.1 Linear autoencoders]] (第575页) - 线性自编码器
+    - [[markdown/page_576|19.1.2 Deep autoencoders]] (第576页) - 深度自编码器
+    - [[markdown/page_577|19.1.3 Sparse autoencoders]] (第577页) - 稀疏自编码器
+    - [[markdown/page_578|19.1.4 Denoising autoencoders]] (第578页) - 去噪自编码器
+    - [[markdown/page_578|19.1.5 Masked autoencoders]] (第578页) - 掩码自编码器
+  - [[markdown/page_580|19.2. Variational Autoencoders]] (第580页) - 变分自编码器
+    - [[markdown/page_583|19.2.1 Amortized inference]] (第583页) - 摊销推断
+    - [[markdown/page_585|19.2.2 The reparameterization trick]] (第585页) - 重参数化技巧
+  - [[markdown/page_589|Exercises]] (第589页) - 练习
+- [[markdown/page_591|20 Diffusion Models]] (第591页) - 扩散模型
+  - [[markdown/page_592|20.1. Forward Encoder]] (第592页) - 前向编码器
+    - [[markdown/page_593|20.1.1 Diffusion kernel]] (第593页) - 扩散核
+    - [[markdown/page_594|20.1.2 Conditional distribution]] (第594页) - 条件分布
+  - [[markdown/page_595|20.2. Reverse Decoder]] (第595页) - 反向解码器
+    - [[markdown/page_597|20.2.1 Training the decoder]] (第597页) - 训练解码器
+    - [[markdown/page_598|20.2.2 Evidence lower bound]] (第598页) - 证据下界
+    - [[markdown/page_599|20.2.3 Rewriting the ELBO]] (第599页) - 重写ELBO
+    - [[markdown/page_601|20.2.4 Predicting the noise]] (第601页) - 预测噪声
+    - [[markdown/page_602|20.2.5 Generating new samples]] (第602页) - 生成新样本
+  - [[markdown/page_604|20.3. Score Matching]] (第604页) - 得分匹配
+    - [[markdown/page_605|20.3.1 Score loss function]] (第605页) - 得分损失函数
+    - [[markdown/page_606|20.3.2 Modified score loss]] (第606页) - 修正得分损失
+    - [[markdown/page_607|20.3.3 Noise variance]] (第607页) - 噪声方差
+    - [[markdown/page_608|20.3.4 Stochastic differential equations]] (第608页) - 随机微分方程
+  - [[markdown/page_609|20.4. Guided Diffusion]] (第609页) - 引导扩散
+    - [[markdown/page_610|20.4.1 Classifier guidance]] (第610页) - 分类器引导
+    - [[markdown/page_610|20.4.2 Classifier-free guidance]] (第610页) - 无分类器引导
+  - [[markdown/page_613|Exercises]] (第613页) - 练习
+- [[markdown/page_625|Appendix B. Calculus of Variations]] (第625页) - 附录B：变分法
+- [[markdown/page_628|Appendix C. Lagrange Multipliers]] (第628页) - 附录C：拉格朗日乘子
+- [[markdown/page_632|Bibliography]] (第632页) - 参考文献
+- [[markdown/page_648|Index]] (第648页) - 索引
 
 
 ---

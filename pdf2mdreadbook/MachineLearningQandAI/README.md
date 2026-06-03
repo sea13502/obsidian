@@ -31,7 +31,7 @@
 	  - [[markdown/page_039|Representation]] (第39页)  **表征**
 	  - [[markdown/page_039|Exercises]] (第39页) **练习**
 	  - [[markdown/page_040|References]] (第40页) **参考文献**
-	- [[markdown/page_041|2. SELF-SUPERVISED LEARNING]] (第41页)  自监督学习
+	- [[markdown/page_041|2. SELF-SUPERVISED LEARNING]] (第41页)  **自监督学习**
 	  - [[markdown/page_041|Self-Supervised Learning vs. Transfer Learning]] (第41页) ==自监督学习 vs. 迁移学习==
 	  - [[markdown/page_044|Leveraging Unlabeled Data]] (第44页) **利用未标记数据**
 	  - [[markdown/page_044|Self-Prediction and Contrastive Self-Supervised Learning]] (第44页)  **自预测与对比自监督学习**
