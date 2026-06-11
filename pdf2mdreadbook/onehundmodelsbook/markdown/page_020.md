@@ -51,7 +51,7 @@
 ### Research and industry efforts continue to seek ever more capable models that learn complex tasks from data.
 **翻译**：学术界和工业界仍在不断探索更强大的模型，让它们能从数据中学习更复杂的任务。
 
-### Although predictions of achieving human-level AI “in just 25 years” have consistently failed to materialize, AI’s impact on everyday applications is undeniable.
+### Although predictions of achieving human-level AI “in just 25 years” have consistently failed to materialize, AI’s impact on everyday applications is ==undeniable==.
 **翻译**：尽管“25年内实现人类级AI”的预言一直未能实现，但AI对日常应用的影响已是不可否认的事实。
 **解析**：这里呼应了前文提到的“AGI永远在25年后”的调侃，承认了通用人工智能的难度，但也肯定了弱AI的实际价值。
 
@@ -66,7 +66,7 @@
 ### The process involves gathering a dataset and building a model from it, which is then used to solve a problem.
 **翻译**：这个过程包括收集数据集、基于数据构建模型，再用模型来解决实际问题。
 
-### I will use “learning” and “machine learning” interchangeably to save keystrokes.
+### I will use “learning” and “machine learning” ==interchangeably== to save ==keystrokes==.
 **翻译**：为了节省篇幅，后文会交替使用“learning”和“machine learning”两个词。
 
 ---
