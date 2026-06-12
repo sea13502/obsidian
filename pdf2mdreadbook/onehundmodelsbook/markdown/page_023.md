@@ -1,6 +1,7 @@
 # 第 23 页
 
 ![第23页](../images/onehundmodelsbook_page_023.jpg)
+![第23页](../images/onehundmodelsbook_page_023_note.jpg)
 
 
 
